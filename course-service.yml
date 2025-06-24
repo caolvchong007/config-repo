@@ -12,4 +12,4 @@ server:
   port: 8081
 tencent:
   cos:
-    bucket_url: https://edu-sys-1365621134.cos.ap-beijing.myqcloud.com
+    bucket-url: https://edu-sys-1365621134.cos.ap-beijing.myqcloud.com
